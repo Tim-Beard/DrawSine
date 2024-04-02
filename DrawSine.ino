@@ -1,7 +1,8 @@
 /*
 
   DrawSine.ino
-  Draws a waveform on an Arduino nano with built in screen
+  Draws a waveform on an Arduino nano with built in screen.
+  Not just sinewaves!
 
   Uses Universal 8bit Graphics Library (https://github.com/olikraus/u8g2/)
 
